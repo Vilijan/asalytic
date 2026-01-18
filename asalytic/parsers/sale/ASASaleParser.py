@@ -24,7 +24,7 @@ from asalytic.models.atomic_transfer import CGRSale
 from asalytic.models.ASASale import ASASale
 from typing import List
 
-_all__ = ["ASASaleParser"]
+__all__ = ["ASASaleParser"]
 
 
 class ASASaleParser:

@@ -11,7 +11,15 @@ A Python library for tracking NFT sales and listings on the Algorand blockchain.
 
 ## Installation
 
-### Quick Setup
+### From PyPI (Recommended)
+
+```bash
+pip install asalytic
+```
+
+### From Source
+
+#### Quick Setup
 
 **Windows:**
 ```batch
@@ -24,7 +32,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-### Manual Setup
+#### Manual Setup
 
 1. Create a virtual environment:
 ```bash

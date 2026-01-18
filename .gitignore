@@ -3,3 +3,9 @@
 __pycache__
 
 venv/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+.claude
