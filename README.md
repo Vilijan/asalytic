@@ -6,7 +6,7 @@ A Python library for tracking NFT sales and listings on the Algorand blockchain.
 
 - Track ASA (Algorand Standard Asset) sales across multiple NFT marketplaces
 - Monitor active NFT listings
-- Support for 16+ NFT platforms including Rand Gallery, Shufl, EXA, ALGO x NFT, and more
+- Support for 16+ NFT platforms including Asalytic, Rand Gallery, Shufl, EXA, ALGO x NFT, and more
 - Parse multiple metadata standards (ARC3, ARC19, ARC69)
 
 ## Installation
